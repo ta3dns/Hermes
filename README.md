@@ -2,4 +2,15 @@
 
 ## Say hello to the next generation of UHF|VHF handhelds. Built for the modern world, controlled by your smartphone. No more cryptic keypads, navigating clunky menus and outdated interfaces. We are making radios intuitive, accessible and powerful.
 
-<a href="https://github.com/ta3dns/Hermes">Hermes</a> © 2025 by <a href="https://github.com/ta3dns">Deniz Özmakoç</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+## Licensing
+
+- **Hardware designs** (schematics, PCBs, enclosures): CERN-OHL-S v2.0 
+  (see LICENSE-HARDWARE)
+  
+- **Firmware and software**: GPL v3 (see LICENSE-SOFTWARE)
+
+- **Documentation**: CC-BY-SA 4.0
+
+- **Trademarks**: All product names and logos are trademarks of 
+  Swaether and not covered by open licenses (see TRADEMARK.md)
+
